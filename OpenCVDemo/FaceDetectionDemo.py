@@ -26,7 +26,7 @@ while True:
 
     # Display the resulting frame
     cv2.imshow('Face Detection Demo', frame)
-	cv2.moveWindow('Face Detection Demo',0,0)
+    cv2.moveWindow('Face Detection Demo',0,0)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
