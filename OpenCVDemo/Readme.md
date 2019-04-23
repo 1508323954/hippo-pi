@@ -1,5 +1,5 @@
 
-编译
+compile the program like this：
 make clean
 make
 Run the program like this:
